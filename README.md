@@ -1,4 +1,4 @@
-## ☁️ Computação em Nuvem com Microsoft Azure
+# ☁️ Computação em Nuvem com Microsoft Azure
 Este repositório traz um resumo das principais lições sobre Azure, a plataforma de nuvem da Microsoft que está por trás de milhares de aplicações modernas — de startups a gigantes globais.
 
 ## 🚀 O que dá pra fazer com Azure?
